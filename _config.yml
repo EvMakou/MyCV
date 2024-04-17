@@ -99,7 +99,7 @@ content:
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/ZombieRunner.png "Escape From Zombies"){: .centered }
+          ![](/MyCV/images/GoalAchiever.png "Goal Achiever"){: .centered }
       - layout: top-middle
         title: Goal Achiever
         link: https://apps.apple.com/by/app/goal-achieve/id1456495320
@@ -115,9 +115,6 @@ content:
           Here I worked with UIKit, CoreData, Notifications, Widgets, Charts etc.
         description: | # this will include new lines to allow paragraphs
           App for tracking your <mark>habits, reminder, motivations</mark>. Also it is a simple <mark>to-do list</mark> for your daily tasks.
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/GoalAchiever.png "Goal Achiever"){: .centered }
 
       - layout: top-middle
         title: Soul Mates
