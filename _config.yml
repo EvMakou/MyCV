@@ -152,7 +152,7 @@ content:
   - title: Demo Of My Works
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      I have created many interesting and useful applications. You can see demos of some of them here:
       - [1 example](https://drive.google.com/file/d/13of9CcIZyNcR-I8_CAnBgHUYhRzDkqA9/view?usp=share_link)
       - [2 example](https://drive.google.com/file/d/16PIvZwDnGiwxWQs0SgOazikAYhb2zPUe/view?usp=share_link)
       - [3 example](https://drive.google.com/file/d/1wvpM3n39qu-vvJugV3pfk2SZpR15CC9m/view?usp=share_link)
