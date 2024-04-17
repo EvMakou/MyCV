@@ -47,7 +47,7 @@ content:
         quote: >
           Product company with many app's directions.
         description: | # this will include new lines to allow paragraphs
-            Here I worked with products of different types: music, utilities, gaming solutions.
+            Worked with products of different types: music, utilities, gaming solutions.
 
       - layout: left
         title: SolbegSoft
@@ -56,7 +56,7 @@ content:
         quote: >
           Large international outsourcing company.
         description: | # this will include new lines to allow paragraphs
-            There I worked with a large number of developers on a leading American project that collaborates with many famous brands.
+            Worked with a large number of developers on a leading American project that collaborates with many famous brands.
 
       - layout: left
         title: AMS Solutions
@@ -64,7 +64,7 @@ content:
         caption: January 2020 - May 2020
         quote: >
           Outsource company with absolutely different projects.
-            I've worked with bank's app there. Also helped other developers in developing other products. Mentoring.
+            Worked with bank's app there. Helped other developers in developing other products. Mentoring.
 
       - layout: left
         title: Sense Digital
