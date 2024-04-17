@@ -112,10 +112,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Here I worked with UIKit, CoreData, Notifications, Widgets, Charts etc.
+          To-do list. Habits tracker.
         description: | # this will include new lines to allow paragraphs
-          App for tracking your <mark>habits, reminder, motivations</mark>. Also it is a simple <mark>to-do list</mark> for your daily tasks.
+          App for tracking your <mark>habits, reminder, motivations</mark>. Also it is a simple <mark>to-do list</mark> for your daily tasks. Worked with UIKit, CoreData, Notifications, Widgets, Charts, light/dark themes etc.
 
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
       - layout: top-middle
         title: Soul Mates
         # link_text: Project Website
@@ -128,10 +131,6 @@ content:
           Soul Mates app with interesting design and features.
         description: | # this will include new lines to allow paragraphs
           <mark>This app still in progress</mark>. App for understanding your inner world, relatives, partners, friends and close people.
-
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
      
 
 
