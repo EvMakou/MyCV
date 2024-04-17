@@ -64,6 +64,7 @@ content:
         caption: January 2020 - May 2020
         quote: >
           Outsource company with absolutely different projects.
+        description: | # this will include new lines to allow paragraphs
             Worked with bank's app there. Helped other developers in developing other products. Mentoring.
 
       - layout: left
