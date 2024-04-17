@@ -1,0 +1,187 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Eugene Chumakou 🍏
+title: iOS Engineer
+email: eugeniy.chumakov@gmail.com
+# website: https://github.com/EvMakou
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: EvMakou
+instagram_username: eugene_chumakov
+linkedin_username: echumakov
+# orcid_username: 0000-0000-0000-0000
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Eugene and I am iOS Engineer with 5+ years experience. I like mobile development. I would like to get experience working in a major app with millions of users. I’m good at communicating with clients, developers and designers (those with and withouttechnical knowledge). In addition to working for here I also enjoydeveloping on my own indie apps and games. I also run my own YouTube Channel and I have big plans for it. 
+
+  #<mark>Worked in two startups from scratch that became successful companies.</mark>
+
+  I am also most passionate in: <mark>Design</mark> and <mark>Cubbing</mark>
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IDA Tech
+        sub_title: iOS Engineer
+        caption: May 2021 - Present
+        quote: >
+          Product company with many app's directions.
+        description: | # this will include new lines to allow paragraphs
+            Here I worked with products of different types: music, utilities, gaming solutions.
+
+      - layout: left
+        title: SolbegSoft
+        sub_title: iOS Engineer
+        caption: May 2020 - May 2021
+        quote: >
+          Large international outsourcing company.
+        description: | # this will include new lines to allow paragraphs
+            There I worked with a large number of developers on a leading American project that collaborates with many famous brands.
+
+      - layout: left
+        title: AMS Solutions
+        sub_title: iOS Engineer
+        caption: January 2020 - May 2020
+        quote: >
+          Outsource company with absolutely different projects.
+            I've worked with bank's app there. Also helped other developers in developing other products. Mentoring.
+
+      - layout: left
+        title: Sense Digital
+        sub_title: iOS Engineer
+        caption: January 2018 - January 2020
+        quote: >
+          Product company with psychological applications.
+        description: | # this will include new lines to allow paragraphs
+            Development of native iOS products compatible with iPhone, iPad, iPod and Apple Watch devices. Development of complex interfaces.
+
+  - title: My Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Escape From Zombies
+        link: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-apple
+            url: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Zombie runner which was created using Apple's SpriteKit framework and AI for design.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
+
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/ZombieRunner.png "Escape From Zombies"){: .centered }
+      - layout: top-middle
+        title: Goal Achiever
+        link: https://apps.apple.com/by/app/goal-achieve/id1456495320
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-apple
+            url: https://apps.apple.com/by/app/goal-achieve/id1456495320
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Here I worked with UIKit, CoreData, Notifications, Widgets, Charts etc.
+        description: | # this will include new lines to allow paragraphs
+          App for tracking your <mark>habits, reminder, motivations</mark>. Also it is a simple <mark>to-do list</mark> for your daily tasks.
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/GoalAchiever.png "Goal Achiever"){: .centered }
+
+      - layout: top-middle
+        title: Soul Mates
+        # link_text: Project Website
+        additional_links:
+          - title:  sprigged/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Soul Mates app with interesting design and features.
+        description: | # this will include new lines to allow paragraphs
+          <mark>This app still in progress</mark>. App for understanding your inner world, relatives, partners, friends and close people.
+
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
+     
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Belarusian State University of Informatics and Radioelectronics
+        caption: 2013 - 2018
+        sub_title: Faculty of Computer Systems and Networks
+        quote: >
+          Education Institution accredited by the Ministry of Education of the Republic of Belarus.
+        description: | # this will include new lines to allow paragraphs
+          During my time at BSUIR I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I totally enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of time at hackathons and participated in many *startups* as an assistant.
+
+  - title: Demo Of My Works
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - [1 example](https://drive.google.com/file/d/13of9CcIZyNcR-I8_CAnBgHUYhRzDkqA9/view?usp=share_link)
+      - [2 example](https://drive.google.com/file/d/16PIvZwDnGiwxWQs0SgOazikAYhb2zPUe/view?usp=share_link)
+      - [3 example](https://drive.google.com/file/d/1wvpM3n39qu-vvJugV3pfk2SZpR15CC9m/view?usp=share_link)
+      - [4 example](https://drive.google.com/file/d/1QapCRwCx0NbzAePgf2JIy3KpZYRpGmT2/view?usp=share_link)
+      - [5 example](https://drive.google.com/file/d/1T_STRT0Bw7bb1y6AilcgufXoPLdQoUcz/view?usp=share_link)
+      - [6 example](https://drive.google.com/file/d/1hRAWfZMUMZGJJ1HXXmRc24_4n5eHWX1G/view?usp=share_link)
+      - [More examples](https://drive.google.com/file/d/1iRWBwkwBXT2kRDLijXMRk_Dr_wyD-CGf/view?usp=share_link)
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Sport
+      - Drawing
+      - Video Editing
+      - Rubik's cube
+
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
