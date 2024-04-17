@@ -75,6 +75,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             Development of native iOS products compatible with iPhone, iPad, iPod and Apple Watch devices. Development of complex interfaces.
 
+	- layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
+
   - title: My Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
