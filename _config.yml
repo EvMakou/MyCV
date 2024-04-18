@@ -121,17 +121,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
       - layout: top-middle
-        title: Soul Mates
+        title: Deep Connection
+        link: https://apps.apple.com/by/app/deep-connection/id6476187538
         # link_text: Project Website
         additional_links:
           - title:  sprigged/modern-resume-theme
+            icon: fab fa-apple
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Soul Mates app with interesting design and features.
+          Deep Connection - psychological application
         description: | # this will include new lines to allow paragraphs
-          <mark>This app still in progress</mark>. App for understanding your inner world, relatives, partners, friends and close people. It is possible to change the icon and theme.
+          Used <mark>SwiftUI & Hosting Controller</mark> for small learning and testing. App for understanding your inner world, relatives, partners, friends and close people. It is possible to change the icon and theme.
      
 
 
