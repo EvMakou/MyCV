@@ -87,7 +87,7 @@ content:
         link: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Escape From Zombies
             icon: fab fa-apple
             url: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -106,7 +106,7 @@ content:
         link: https://apps.apple.com/by/app/goal-achieve/id1456495320
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Goal Achiever
             icon: fab fa-apple
             url: https://apps.apple.com/by/app/goal-achieve/id1456495320
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -125,8 +125,9 @@ content:
         link: https://apps.apple.com/by/app/deep-connection/id6476187538
         # link_text: Project Website
         additional_links:
-          - title:  sprigged/modern-resume-theme
+          - title:  Deep Connection
             icon: fab fa-apple
+            url: https://apps.apple.com/by/app/deep-connection/id6476187538
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
