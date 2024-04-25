@@ -81,22 +81,22 @@ content:
     content:
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/ZombieRunner.png "Escape From Zombies"){: .centered }
+          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
       - layout: top-middle
-        title: Escape From Zombies
-        link: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
+        title: Deep Connection
+        link: https://apps.apple.com/by/app/deep-connection/id6476187538
         # link_text: Project Website
         additional_links:
-          - title:  Escape From Zombies
+          - title:  Deep Connection
             icon: fab fa-apple
-            url: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
+            url: https://apps.apple.com/by/app/deep-connection/id6476187538
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Zombie runner which was created using Apple's SpriteKit framework and AI for design.
+          Deep Connection - psychological application
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
+          Used <mark>SwiftUI & Hosting Controller</mark> for small learning and testing. App for understanding your inner world, relatives, partners, friends and close people. It is possible to change the icon and theme.
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
@@ -119,23 +119,22 @@ content:
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/SoulMates.png "Soul Mates"){: .centered }
+          ![](/MyCV/images/ZombieRunner.png "Escape From Zombies"){: .centered }
       - layout: top-middle
-        title: Deep Connection
-        link: https://apps.apple.com/by/app/deep-connection/id6476187538
+        title: Escape From Zombies
+        link: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
         # link_text: Project Website
         additional_links:
-          - title:  Deep Connection
+          - title:  Escape From Zombies
             icon: fab fa-apple
-            url: https://apps.apple.com/by/app/deep-connection/id6476187538
+            url: https://apps.apple.com/by/app/escape-from-zombies/id6475194287
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Deep Connection - psychological application
+          Zombie runner which was created using Apple's SpriteKit framework and AI for design.
         description: | # this will include new lines to allow paragraphs
-          Used <mark>SwiftUI & Hosting Controller</mark> for small learning and testing. App for understanding your inner world, relatives, partners, friends and close people. It is possible to change the icon and theme.
-     
+          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
 
 
   - title: Education # Title for the section
