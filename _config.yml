@@ -136,6 +136,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
 
+      - layout: top-middle
+        description: | # this will include new lines to allow paragraphs
+          ![](/MyCV/images/ShuttleBattle.png "Escape From Zombies"){: .centered }
+      - layout: top-middle
+        title: Shuttle Battle
+        link: https://apps.apple.com/by/app/shuttlebattle/id1398471449
+        # link_text: Project Website
+        additional_links:
+          - title:  Shuttle Battle
+            icon: fab fa-apple
+            url: https://apps.apple.com/by/app/shuttlebattle/id1398471449
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Casual game with logical puzzles
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
