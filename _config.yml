@@ -132,13 +132,13 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Zombie runner which was created using Apple's SpriteKit framework and AI for design.
+          Casual game
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
+          I started this project as a way of learning <mark>Apple's SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. App was created using <mark>AI for design</mark>.
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/ShuttleBattle.png "Escape From Zombies"){: .centered }
+          ![](/MyCV/images/ShuttleBattle.png "Shuttle Battle"){: .centered }
       - layout: top-middle
         title: Shuttle Battle
         link: https://apps.apple.com/by/app/shuttlebattle/id1398471449
@@ -153,8 +153,7 @@ content:
         quote: >
           Casual game with logical puzzles
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>SpriteKit</mark> I have learned many skills through this and been I'm very proud of having this in my portfolio. Now I have 3 apps with this framework.
-
+          The application was written to protect a <mark>diploma</mark>. Also, I wanted to know how the <mark>game framework</mark> works. Training algorithms in a puzzle game.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
