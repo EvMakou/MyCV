@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 3
+version: 2
 
 # Personal info
 name: Eugene Chumakou 🍏
@@ -199,7 +199,7 @@ footer_show_references: true
 # references_title: Enjoy the ride. (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/resume-theme@v3.0.0
 
 sass:
   sass_dir: _sass
