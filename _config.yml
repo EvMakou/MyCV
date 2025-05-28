@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Eugene Chumakou 🍏
@@ -18,7 +18,8 @@ darkmode: false
 github_username: EvMakou
 instagram_username: eugene_chumakov
 linkedin_username: echumakov
-twitter_username: tech_crutch
+x_username: tech_crutch
+# twitter_username: tech_crutch
 # orcid_username: 0000-0000-0000-0000
 
 # Google Analytics and Tag Manager
