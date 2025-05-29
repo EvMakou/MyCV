@@ -101,22 +101,22 @@ content:
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
-          ![](/MyCV/images/GoalAchiever.png "Goal Achiever"){: .centered }
+          ![](/MyCV/images/SwiftIQ.png "Swift IQ"){: .centered }
       - layout: top-middle
-        title: Goal Achiever
+        title: Swift IQ
         link: https://apps.apple.com/by/app/goal-achieve/id1456495320
         # link_text: Project Website
         additional_links:
-          - title:  Goal Achiever
+          - title:  Swift IQ
             icon: fab fa-apple
-            url: https://apps.apple.com/by/app/goal-achieve/id1456495320
+            url: https://apps.apple.com/by/app/iosgym/id6738292133
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          To-do list. Habits tracker.
+          Swift Booster. Productive App.
         description: | # this will include new lines to allow paragraphs
-          App for tracking your <mark>habits, reminder, motivations</mark>. Also it is a simple <mark>to-do list</mark> for your daily tasks. Worked with UIKit, CoreData, Notifications, Widgets, Charts, light/dark themes etc.
+          An app to level up your <mark>Swift programming</mark> skills. <mark>300+ real interview questions</mark> with detailed explanations. <mark>Mini-games</mark> to practice concepts. <mark>Articles<mark/> breaking down each topic. Motivation tracker <mark>widget</mark> (streak counter). Worked with SwiftUI, MVVM, Combine, Async/Await, SwiftData, Widgets, Charts, light/dark themes etc.
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
