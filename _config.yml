@@ -116,7 +116,7 @@ content:
         quote: >
           Swift Booster. Productive App.
         description: | # this will include new lines to allow paragraphs
-          An app to level up your <mark>Swift programming</mark> skills. <mark>300+ real interview questions</mark> with detailed explanations. <mark>Mini-games</mark> to practice concepts. <mark>Articles<mark/> breaking down each topic. Motivation tracker <mark>widget</mark> (streak counter). Worked with SwiftUI, MVVM, Combine, Async/Await, SwiftData, Widgets, Charts, light/dark themes etc.
+          An app to level up your <mark>Swift programming</mark> skills. <mark>300+ real interview questions</mark> with detailed explanations. <mark>Mini-games</mark> to practice concepts. <mark>Articles</mark> breaking down each topic. Motivation tracker <mark>widget</mark> (streak counter). Worked with SwiftUI, MVVM, Combine, Async/Await, SwiftData, Widgets, Charts, light/dark themes etc.
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraphs
